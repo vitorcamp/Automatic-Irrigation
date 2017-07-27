@@ -1,5 +1,5 @@
 void setup() {
-  pinMode(11, OUTPUT); // configura pino como saída
+  pinMode(13, OUTPUT); // configura pino como saída
 
 }
 
